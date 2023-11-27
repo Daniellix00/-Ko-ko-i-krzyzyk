@@ -1,0 +1,3 @@
+rootProject.name = 'kolko-i-krzyzyk'
+include 'KolkoiKrzyzyk-testing'
+
